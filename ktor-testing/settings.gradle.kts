@@ -1,1 +1,1 @@
-rootProject.name = "kor-testing"
+rootProject.name = "ktor-testing"

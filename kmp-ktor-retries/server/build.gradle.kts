@@ -9,7 +9,7 @@ plugins {
 group = "kmp.ktor.retries.demo"
 version = "1.0.0"
 application {
-    mainClass.set("demos.kotlin.conf.ApplicationKt")
+    mainClass.set("demos.goto.amsterdam.ApplicationKt")
     applicationDefaultJvmArgs = listOf("-Dio.ktor.development=${extra["development"] ?: "false"}")
 }
 

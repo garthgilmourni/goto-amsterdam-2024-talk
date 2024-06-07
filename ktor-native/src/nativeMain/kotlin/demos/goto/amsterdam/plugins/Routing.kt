@@ -1,4 +1,4 @@
-package demos.kotlin.conf.plugins
+package demos.goto.amsterdam.plugins
 
 import io.ktor.server.application.*
 import io.ktor.server.response.*

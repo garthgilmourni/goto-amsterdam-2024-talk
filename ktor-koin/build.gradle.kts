@@ -14,7 +14,7 @@ group = "com.example"
 version = "0.0.1"
 
 application {
-    mainClass.set("demos.kotlin.conf.ApplicationKt")
+    mainClass.set("demos.goto.amsterdam.ApplicationKt")
 
     val isDevelopment: Boolean = project.ext.has("development")
     applicationDefaultJvmArgs = listOf("-Dio.ktor.development=$isDevelopment")
